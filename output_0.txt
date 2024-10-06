@@ -1,0 +1,2804 @@
+Logging data to output/2024-10-01_1229_59/log.txt
+Collecting 20000 initial samples
+samples: 50/20000
+samples: 56/20000
+samples: 77/20000
+samples: 127/20000
+samples: 146/20000
+samples: 158/20000
+samples: 182/20000
+samples: 216/20000
+samples: 225/20000
+samples: 256/20000
+samples: 265/20000
+samples: 297/20000
+samples: 328/20000
+samples: 354/20000
+samples: 364/20000
+samples: 378/20000
+samples: 393/20000
+samples: 443/20000
+samples: 493/20000
+samples: 543/20000
+samples: 572/20000
+samples: 606/20000
+samples: 631/20000
+samples: 651/20000
+samples: 701/20000
+samples: 751/20000
+samples: 801/20000
+samples: 822/20000
+samples: 831/20000
+samples: 862/20000
+samples: 912/20000
+samples: 962/20000
+samples: 1012/20000
+Collected 1012 initial samples in 51.92813515663147 sec
+samples: 1026/20000
+samples: 1043/20000
+samples: 1059/20000
+samples: 1095/20000
+samples: 1145/20000
+samples: 1191/20000
+samples: 1231/20000
+samples: 1281/20000
+samples: 1331/20000
+samples: 1375/20000
+samples: 1425/20000
+samples: 1472/20000
+samples: 1490/20000
+samples: 1504/20000
+samples: 1554/20000
+samples: 1580/20000
+samples: 1621/20000
+samples: 1656/20000
+samples: 1685/20000
+samples: 1711/20000
+samples: 1757/20000
+samples: 1802/20000
+samples: 1829/20000
+samples: 1861/20000
+samples: 1897/20000
+samples: 1916/20000
+samples: 1941/20000
+samples: 1991/20000
+samples: 2041/20000
+Collected 2041 initial samples in 104.41321301460266 sec
+samples: 2091/20000
+samples: 2112/20000
+samples: 2118/20000
+samples: 2168/20000
+samples: 2197/20000
+samples: 2247/20000
+samples: 2261/20000
+samples: 2311/20000
+samples: 2345/20000
+samples: 2373/20000
+samples: 2413/20000
+samples: 2463/20000
+samples: 2513/20000
+samples: 2526/20000
+samples: 2576/20000
+samples: 2626/20000
+samples: 2670/20000
+samples: 2720/20000
+samples: 2756/20000
+samples: 2806/20000
+samples: 2856/20000
+samples: 2906/20000
+samples: 2917/20000
+samples: 2926/20000
+samples: 2976/20000
+samples: 3026/20000
+Collected 3026 initial samples in 154.54718112945557 sec
+samples: 3048/20000
+samples: 3098/20000
+samples: 3141/20000
+samples: 3163/20000
+samples: 3196/20000
+samples: 3245/20000
+samples: 3295/20000
+samples: 3345/20000
+samples: 3393/20000
+samples: 3409/20000
+samples: 3459/20000
+samples: 3509/20000
+samples: 3525/20000
+samples: 3559/20000
+samples: 3609/20000
+samples: 3655/20000
+samples: 3705/20000
+samples: 3755/20000
+samples: 3805/20000
+samples: 3844/20000
+samples: 3855/20000
+samples: 3898/20000
+samples: 3948/20000
+samples: 3971/20000
+samples: 3985/20000
+samples: 4000/20000
+Collected 4000 initial samples in 204.43636226654053 sec
+samples: 4033/20000
+samples: 4040/20000
+samples: 4085/20000
+samples: 4135/20000
+samples: 4185/20000
+samples: 4220/20000
+samples: 4256/20000
+samples: 4306/20000
+samples: 4322/20000
+samples: 4372/20000
+samples: 4410/20000
+samples: 4421/20000
+samples: 4432/20000
+samples: 4482/20000
+samples: 4497/20000
+samples: 4545/20000
+samples: 4579/20000
+samples: 4629/20000
+samples: 4679/20000
+samples: 4729/20000
+samples: 4770/20000
+samples: 4793/20000
+samples: 4843/20000
+samples: 4893/20000
+samples: 4936/20000
+samples: 4972/20000
+samples: 4988/20000
+samples: 5007/20000
+Collected 5007 initial samples in 256.1323335170746 sec
+samples: 5057/20000
+samples: 5107/20000
+samples: 5157/20000
+samples: 5170/20000
+samples: 5182/20000
+samples: 5195/20000
+samples: 5210/20000
+samples: 5260/20000
+samples: 5278/20000
+samples: 5328/20000
+samples: 5360/20000
+samples: 5385/20000
+samples: 5435/20000
+samples: 5485/20000
+samples: 5535/20000
+samples: 5574/20000
+samples: 5624/20000
+samples: 5644/20000
+samples: 5689/20000
+samples: 5706/20000
+samples: 5725/20000
+samples: 5742/20000
+samples: 5774/20000
+samples: 5792/20000
+samples: 5842/20000
+samples: 5886/20000
+samples: 5927/20000
+samples: 5959/20000
+samples: 6009/20000
+Collected 6009 initial samples in 308.5707952976227 sec
+samples: 6059/20000
+samples: 6107/20000
+samples: 6157/20000
+samples: 6207/20000
+samples: 6257/20000
+samples: 6287/20000
+samples: 6337/20000
+samples: 6377/20000
+samples: 6420/20000
+samples: 6470/20000
+samples: 6500/20000
+samples: 6513/20000
+samples: 6524/20000
+samples: 6561/20000
+samples: 6604/20000
+samples: 6654/20000
+samples: 6704/20000
+samples: 6713/20000
+samples: 6736/20000
+samples: 6786/20000
+samples: 6824/20000
+samples: 6865/20000
+samples: 6915/20000
+samples: 6931/20000
+samples: 6966/20000
+samples: 6990/20000
+samples: 7040/20000
+Collected 7040 initial samples in 361.7384977340698 sec
+samples: 7063/20000
+samples: 7087/20000
+samples: 7097/20000
+samples: 7129/20000
+samples: 7169/20000
+samples: 7208/20000
+samples: 7258/20000
+samples: 7300/20000
+samples: 7350/20000
+samples: 7400/20000
+samples: 7450/20000
+samples: 7477/20000
+samples: 7507/20000
+samples: 7536/20000
+samples: 7556/20000
+samples: 7603/20000
+samples: 7653/20000
+samples: 7703/20000
+samples: 7736/20000
+samples: 7786/20000
+samples: 7805/20000
+samples: 7855/20000
+samples: 7882/20000
+samples: 7932/20000
+samples: 7982/20000
+samples: 8032/20000
+Collected 8032 initial samples in 415.44146513938904 sec
+samples: 8044/20000
+samples: 8057/20000
+samples: 8082/20000
+samples: 8105/20000
+samples: 8155/20000
+samples: 8174/20000
+samples: 8185/20000
+samples: 8197/20000
+samples: 8247/20000
+samples: 8291/20000
+samples: 8341/20000
+samples: 8383/20000
+samples: 8432/20000
+samples: 8448/20000
+samples: 8498/20000
+samples: 8514/20000
+samples: 8531/20000
+samples: 8551/20000
+samples: 8563/20000
+samples: 8576/20000
+samples: 8626/20000
+samples: 8654/20000
+samples: 8694/20000
+samples: 8704/20000
+samples: 8725/20000
+samples: 8775/20000
+samples: 8825/20000
+samples: 8874/20000
+samples: 8924/20000
+samples: 8935/20000
+samples: 8966/20000
+samples: 8989/20000
+samples: 9031/20000
+Collected 9031 initial samples in 468.5263602733612 sec
+samples: 9046/20000
+samples: 9096/20000
+samples: 9146/20000
+samples: 9188/20000
+samples: 9238/20000
+samples: 9272/20000
+samples: 9295/20000
+samples: 9317/20000
+samples: 9367/20000
+samples: 9386/20000
+samples: 9426/20000
+samples: 9476/20000
+samples: 9526/20000
+samples: 9544/20000
+samples: 9580/20000
+samples: 9601/20000
+samples: 9613/20000
+samples: 9663/20000
+samples: 9690/20000
+samples: 9712/20000
+samples: 9729/20000
+samples: 9779/20000
+samples: 9805/20000
+samples: 9820/20000
+samples: 9841/20000
+samples: 9891/20000
+samples: 9941/20000
+samples: 9961/20000
+samples: 9993/20000
+samples: 10043/20000
+Collected 10043 initial samples in 521.5233631134033 sec
+samples: 10093/20000
+samples: 10132/20000
+samples: 10152/20000
+samples: 10202/20000
+samples: 10238/20000
+samples: 10288/20000
+samples: 10302/20000
+samples: 10345/20000
+samples: 10374/20000
+samples: 10424/20000
+samples: 10441/20000
+samples: 10491/20000
+samples: 10541/20000
+samples: 10557/20000
+samples: 10607/20000
+samples: 10632/20000
+samples: 10680/20000
+samples: 10730/20000
+samples: 10780/20000
+samples: 10815/20000
+samples: 10865/20000
+samples: 10891/20000
+samples: 10919/20000
+samples: 10969/20000
+samples: 11019/20000
+Collected 11019 initial samples in 573.3394799232483 sec
+samples: 11069/20000
+samples: 11090/20000
+samples: 11140/20000
+samples: 11174/20000
+samples: 11187/20000
+samples: 11214/20000
+samples: 11236/20000
+samples: 11286/20000
+samples: 11336/20000
+samples: 11386/20000
+samples: 11407/20000
+samples: 11451/20000
+samples: 11501/20000
+samples: 11528/20000
+samples: 11541/20000
+samples: 11571/20000
+samples: 11617/20000
+samples: 11657/20000
+samples: 11707/20000
+samples: 11757/20000
+samples: 11772/20000
+samples: 11797/20000
+samples: 11821/20000
+samples: 11846/20000
+samples: 11896/20000
+samples: 11946/20000
+samples: 11970/20000
+samples: 12020/20000
+Collected 12020 initial samples in 626.5748424530029 sec
+samples: 12070/20000
+samples: 12095/20000
+samples: 12122/20000
+samples: 12161/20000
+samples: 12172/20000
+samples: 12192/20000
+samples: 12230/20000
+samples: 12266/20000
+samples: 12311/20000
+samples: 12355/20000
+samples: 12363/20000
+samples: 12393/20000
+samples: 12443/20000
+samples: 12493/20000
+samples: 12543/20000
+samples: 12593/20000
+samples: 12629/20000
+samples: 12667/20000
+samples: 12699/20000
+samples: 12749/20000
+samples: 12799/20000
+samples: 12822/20000
+samples: 12872/20000
+samples: 12893/20000
+samples: 12943/20000
+samples: 12959/20000
+samples: 13003/20000
+Collected 13003 initial samples in 682.7625453472137 sec
+samples: 13044/20000
+samples: 13094/20000
+samples: 13144/20000
+samples: 13179/20000
+samples: 13201/20000
+samples: 13251/20000
+samples: 13273/20000
+samples: 13312/20000
+samples: 13319/20000
+samples: 13331/20000
+samples: 13380/20000
+samples: 13422/20000
+samples: 13472/20000
+samples: 13516/20000
+samples: 13566/20000
+samples: 13593/20000
+samples: 13618/20000
+samples: 13668/20000
+samples: 13718/20000
+samples: 13737/20000
+samples: 13762/20000
+samples: 13779/20000
+samples: 13789/20000
+samples: 13809/20000
+samples: 13852/20000
+samples: 13876/20000
+samples: 13888/20000
+samples: 13895/20000
+samples: 13915/20000
+samples: 13952/20000
+samples: 13985/20000
+samples: 14008/20000
+Collected 14008 initial samples in 735.9916741847992 sec
+samples: 14058/20000
+samples: 14108/20000
+samples: 14158/20000
+samples: 14186/20000
+samples: 14201/20000
+samples: 14251/20000
+samples: 14289/20000
+samples: 14302/20000
+samples: 14352/20000
+samples: 14402/20000
+samples: 14448/20000
+samples: 14498/20000
+samples: 14548/20000
+samples: 14562/20000
+samples: 14595/20000
+samples: 14613/20000
+samples: 14663/20000
+samples: 14713/20000
+samples: 14763/20000
+samples: 14800/20000
+samples: 14828/20000
+samples: 14874/20000
+samples: 14924/20000
+samples: 14957/20000
+samples: 14999/20000
+samples: 15043/20000
+Collected 15043 initial samples in 794.0636625289917 sec
+samples: 15093/20000
+samples: 15141/20000
+samples: 15176/20000
+samples: 15189/20000
+samples: 15239/20000
+samples: 15267/20000
+samples: 15296/20000
+samples: 15346/20000
+samples: 15357/20000
+samples: 15407/20000
+samples: 15457/20000
+samples: 15507/20000
+samples: 15515/20000
+samples: 15523/20000
+samples: 15538/20000
+samples: 15588/20000
+samples: 15612/20000
+samples: 15623/20000
+samples: 15666/20000
+samples: 15691/20000
+samples: 15704/20000
+samples: 15738/20000
+samples: 15788/20000
+samples: 15803/20000
+samples: 15853/20000
+samples: 15868/20000
+samples: 15904/20000
+samples: 15950/20000
+samples: 15973/20000
+samples: 16012/20000
+Collected 16012 initial samples in 850.0998346805573 sec
+samples: 16027/20000
+samples: 16077/20000
+samples: 16127/20000
+samples: 16177/20000
+samples: 16195/20000
+samples: 16245/20000
+samples: 16261/20000
+samples: 16295/20000
+samples: 16330/20000
+samples: 16380/20000
+samples: 16430/20000
+samples: 16440/20000
+samples: 16462/20000
+samples: 16491/20000
+samples: 16541/20000
+samples: 16557/20000
+samples: 16603/20000
+samples: 16653/20000
+samples: 16682/20000
+samples: 16698/20000
+samples: 16748/20000
+samples: 16797/20000
+samples: 16847/20000
+samples: 16897/20000
+samples: 16947/20000
+samples: 16986/20000
+samples: 17021/20000
+Collected 17021 initial samples in 907.2454679012299 sec
+samples: 17039/20000
+samples: 17059/20000
+samples: 17068/20000
+samples: 17088/20000
+samples: 17103/20000
+samples: 17139/20000
+samples: 17189/20000
+samples: 17222/20000
+samples: 17272/20000
+samples: 17295/20000
+samples: 17311/20000
+samples: 17357/20000
+samples: 17398/20000
+samples: 17434/20000
+samples: 17444/20000
+samples: 17467/20000
+samples: 17517/20000
+samples: 17541/20000
+samples: 17564/20000
+samples: 17614/20000
+samples: 17630/20000
+samples: 17643/20000
+samples: 17681/20000
+samples: 17691/20000
+samples: 17704/20000
+samples: 17754/20000
+samples: 17804/20000
+samples: 17836/20000
+samples: 17886/20000
+samples: 17911/20000
+samples: 17955/20000
+samples: 17978/20000
+samples: 18021/20000
+Collected 18021 initial samples in 959.207278251648 sec
+samples: 18035/20000
+samples: 18058/20000
+samples: 18108/20000
+samples: 18129/20000
+samples: 18179/20000
+samples: 18193/20000
+samples: 18243/20000
+samples: 18281/20000
+samples: 18331/20000
+samples: 18351/20000
+samples: 18390/20000
+samples: 18440/20000
+samples: 18461/20000
+samples: 18473/20000
+samples: 18523/20000
+samples: 18559/20000
+samples: 18590/20000
+samples: 18617/20000
+samples: 18658/20000
+samples: 18683/20000
+samples: 18701/20000
+samples: 18726/20000
+samples: 18761/20000
+samples: 18772/20000
+samples: 18808/20000
+samples: 18827/20000
+samples: 18856/20000
+samples: 18880/20000
+samples: 18893/20000
+samples: 18903/20000
+samples: 18923/20000
+samples: 18973/20000
+samples: 19023/20000
+Collected 19023 initial samples in 1012.2619848251343 sec
+samples: 19073/20000
+samples: 19085/20000
+samples: 19111/20000
+samples: 19124/20000
+samples: 19139/20000
+samples: 19189/20000
+samples: 19197/20000
+samples: 19245/20000
+samples: 19295/20000
+samples: 19321/20000
+samples: 19343/20000
+samples: 19360/20000
+samples: 19410/20000
+samples: 19460/20000
+samples: 19510/20000
+samples: 19560/20000
+samples: 19610/20000
+samples: 19660/20000
+samples: 19710/20000
+samples: 19725/20000
+samples: 19775/20000
+samples: 19820/20000
+samples: 19870/20000
+samples: 19920/20000
+samples: 19938/20000
+samples: 19975/20000
+samples: 19985/20000
+samples: 20032/20000
+Collected 20032 initial samples in 1075.2508420944214 sec
+Training
+Model saved to: output/2024-10-01_1229_59/train/model-000000.ckpt
+MoviePy - Building file output/2024-10-01_1229_59/videos/iter-0.gif with imageio.
+Video saved to: output/2024-10-01_1229_59/videos/iter-0.gif
+--------------------------------------------
+|              Iteration |               0 |
+|              Wall_Time |           0.307 |
+|                Samples |           21137 |
+|           Train_Return |            6.38 |
+|            Train_Paths |              13 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.336 |
+|          Final_Robot_Y |           0.221 |
+|   Robot_Travel_Forward |         -0.0681 |
+|  Robot_Travel_Sideways |          0.0658 |
+|   Robot_Travel_Yaw_Deg |            4.99 |
+|             Max_Torque |            27.7 |
+|            Critic_Loss |          0.0246 |
+|           Critic_Steps |             516 |
+| Critic_Time_Per_Update |           0.029 |
+|             Actor_Loss |          -0.138 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |             516 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               1 |
+|              Wall_Time |           0.323 |
+|                Samples |           21713 |
+|           Train_Return |            1.32 |
+|            Train_Paths |              77 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.242 |
+|          Final_Robot_Y |          -0.089 |
+|   Robot_Travel_Forward |           -0.18 |
+|  Robot_Travel_Sideways |         -0.0545 |
+|   Robot_Travel_Yaw_Deg |           -10.1 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00888 |
+|           Critic_Steps |            1028 |
+| Critic_Time_Per_Update |           0.023 |
+|             Actor_Loss |          -0.589 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            1028 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               2 |
+|              Wall_Time |           0.337 |
+|                Samples |           22339 |
+|           Train_Return |            1.36 |
+|            Train_Paths |             189 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.139 |
+|          Final_Robot_Y |          0.0337 |
+|   Robot_Travel_Forward |         -0.0644 |
+|  Robot_Travel_Sideways |          0.0152 |
+|   Robot_Travel_Yaw_Deg |           -3.77 |
+|             Max_Torque |            31.5 |
+|            Critic_Loss |         0.00826 |
+|           Critic_Steps |            1542 |
+| Critic_Time_Per_Update |          0.0291 |
+|             Actor_Loss |          -0.864 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            1542 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               3 |
+|              Wall_Time |           0.352 |
+|                Samples |           22960 |
+|           Train_Return |            1.61 |
+|            Train_Paths |             295 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |         -0.0518 |
+|          Final_Robot_Y |         -0.0149 |
+|   Robot_Travel_Forward |         -0.0313 |
+|  Robot_Travel_Sideways |        -0.00771 |
+|   Robot_Travel_Yaw_Deg |          -0.408 |
+|             Max_Torque |            23.3 |
+|            Critic_Loss |         0.00773 |
+|           Critic_Steps |            2057 |
+| Critic_Time_Per_Update |          0.0224 |
+|             Actor_Loss |          -0.722 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            2057 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               4 |
+|              Wall_Time |           0.367 |
+|                Samples |           23578 |
+|           Train_Return |            1.61 |
+|            Train_Paths |             398 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |         -0.0769 |
+|          Final_Robot_Y |         -0.0137 |
+|   Robot_Travel_Forward |         -0.0506 |
+|  Robot_Travel_Sideways |        -0.00298 |
+|   Robot_Travel_Yaw_Deg |          -0.922 |
+|             Max_Torque |            20.9 |
+|            Critic_Loss |         0.00537 |
+|           Critic_Steps |            2572 |
+| Critic_Time_Per_Update |          0.0245 |
+|             Actor_Loss |          -0.492 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            2572 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               5 |
+|              Wall_Time |           0.381 |
+|                Samples |           24197 |
+|           Train_Return |            1.62 |
+|            Train_Paths |             504 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |         -0.0396 |
+|          Final_Robot_Y |         -0.0161 |
+|   Robot_Travel_Forward |         -0.0202 |
+|  Robot_Travel_Sideways |        -0.00876 |
+|   Robot_Travel_Yaw_Deg |           0.541 |
+|             Max_Torque |            24.5 |
+|            Critic_Loss |          0.0047 |
+|           Critic_Steps |            3085 |
+| Critic_Time_Per_Update |          0.0219 |
+|             Actor_Loss |          -0.673 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            3085 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               6 |
+|              Wall_Time |           0.395 |
+|                Samples |           24762 |
+|           Train_Return |            1.69 |
+|            Train_Paths |             553 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.337 |
+|          Final_Robot_Y |           0.316 |
+|   Robot_Travel_Forward |         -0.0754 |
+|  Robot_Travel_Sideways |           0.089 |
+|   Robot_Travel_Yaw_Deg |           -73.8 |
+|             Max_Torque |              32 |
+|            Critic_Loss |         0.00975 |
+|           Critic_Steps |            3601 |
+| Critic_Time_Per_Update |          0.0221 |
+|             Actor_Loss |           -1.21 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            3601 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               7 |
+|              Wall_Time |           0.409 |
+|                Samples |           25331 |
+|           Train_Return |            1.82 |
+|            Train_Paths |             606 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.289 |
+|          Final_Robot_Y |          -0.135 |
+|   Robot_Travel_Forward |          0.0104 |
+|  Robot_Travel_Sideways |         -0.0257 |
+|   Robot_Travel_Yaw_Deg |           -11.5 |
+|             Max_Torque |            34.7 |
+|            Critic_Loss |         0.00942 |
+|           Critic_Steps |            4117 |
+| Critic_Time_Per_Update |          0.0223 |
+|             Actor_Loss |           -1.59 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            4117 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               8 |
+|              Wall_Time |           0.422 |
+|                Samples |           25896 |
+|           Train_Return |            2.83 |
+|            Train_Paths |             649 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.479 |
+|          Final_Robot_Y |           0.229 |
+|   Robot_Travel_Forward |           0.202 |
+|  Robot_Travel_Sideways |          0.0189 |
+|   Robot_Travel_Yaw_Deg |            20.2 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0113 |
+|           Critic_Steps |            4639 |
+| Critic_Time_Per_Update |          0.0217 |
+|             Actor_Loss |           -1.93 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            4639 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |               9 |
+|              Wall_Time |           0.436 |
+|                Samples |           26460 |
+|           Train_Return |            2.99 |
+|            Train_Paths |             696 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.207 |
+|          Final_Robot_Y |           0.103 |
+|   Robot_Travel_Forward |          -0.108 |
+|  Robot_Travel_Sideways |          0.0196 |
+|   Robot_Travel_Yaw_Deg |            24.6 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0131 |
+|           Critic_Steps |            5156 |
+| Critic_Time_Per_Update |          0.0228 |
+|             Actor_Loss |           -2.16 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            5156 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              10 |
+|              Wall_Time |           0.449 |
+|                Samples |           27012 |
+|           Train_Return |            3.67 |
+|            Train_Paths |             730 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.293 |
+|          Final_Robot_Y |          -0.293 |
+|   Robot_Travel_Forward |           0.042 |
+|  Robot_Travel_Sideways |         -0.0313 |
+|   Robot_Travel_Yaw_Deg |              15 |
+|             Max_Torque |            33.5 |
+|            Critic_Loss |          0.0134 |
+|           Critic_Steps |            5674 |
+| Critic_Time_Per_Update |          0.0227 |
+|             Actor_Loss |           -2.29 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            5674 |
+--------------------------------------------
+Joint angle limits exceeded
+angles: [ 0.63167701  1.95414003 -1.25963897 -0.62242986  1.5864572  -2.71890172
+  0.51965049  2.08624052 -1.44739583 -0.250227    1.32670771 -2.38535862]
+Joint angle limits exceeded
+angles: [ 0.64954008  1.93455609 -1.47467141 -0.57135034  1.49414938 -2.71775855
+  0.45418001  2.07473928 -1.22228722 -0.48337779  1.62925471 -2.30847574]
+--------------------------------------------
+|              Iteration |              11 |
+|              Wall_Time |           0.462 |
+|                Samples |           27560 |
+|           Train_Return |             4.4 |
+|            Train_Paths |             765 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.207 |
+|          Final_Robot_Y |          -0.153 |
+|   Robot_Travel_Forward |          0.0595 |
+|  Robot_Travel_Sideways |         0.00682 |
+|   Robot_Travel_Yaw_Deg |           -27.2 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0127 |
+|           Critic_Steps |            6187 |
+| Critic_Time_Per_Update |          0.0225 |
+|             Actor_Loss |            -2.4 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            6187 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              12 |
+|              Wall_Time |           0.476 |
+|                Samples |           28128 |
+|           Train_Return |            4.61 |
+|            Train_Paths |             814 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.217 |
+|          Final_Robot_Y |          0.0969 |
+|   Robot_Travel_Forward |          -0.101 |
+|  Robot_Travel_Sideways |        -0.00528 |
+|   Robot_Travel_Yaw_Deg |            4.93 |
+|             Max_Torque |            34.3 |
+|            Critic_Loss |          0.0122 |
+|           Critic_Steps |            6706 |
+| Critic_Time_Per_Update |          0.0228 |
+|             Actor_Loss |           -2.49 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            6706 |
+--------------------------------------------
+Joint angle limits exceeded
+angles: [ 0.01042002  1.30562034 -2.71881598  0.70334658  0.04963678 -2.54183594
+ -0.09182439  2.22880735 -1.77111295  0.13774524  0.01489481 -1.68805434]
+--------------------------------------------
+|              Iteration |              13 |
+|              Wall_Time |           0.489 |
+|                Samples |           28675 |
+|           Train_Return |            4.83 |
+|            Train_Paths |             849 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.268 |
+|          Final_Robot_Y |          -0.253 |
+|   Robot_Travel_Forward |         -0.0973 |
+|  Robot_Travel_Sideways |         -0.0363 |
+|   Robot_Travel_Yaw_Deg |            2.48 |
+|             Max_Torque |            28.2 |
+|            Critic_Loss |          0.0125 |
+|           Critic_Steps |            7218 |
+| Critic_Time_Per_Update |          0.0231 |
+|             Actor_Loss |           -2.57 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            7218 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              14 |
+|              Wall_Time |           0.503 |
+|                Samples |           29228 |
+|           Train_Return |            4.94 |
+|            Train_Paths |             886 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.228 |
+|          Final_Robot_Y |           0.171 |
+|   Robot_Travel_Forward |         -0.0733 |
+|  Robot_Travel_Sideways |          0.0525 |
+|   Robot_Travel_Yaw_Deg |           -11.8 |
+|             Max_Torque |            33.9 |
+|            Critic_Loss |          0.0113 |
+|           Critic_Steps |            7734 |
+| Critic_Time_Per_Update |          0.0259 |
+|             Actor_Loss |           -2.59 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            7734 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              15 |
+|              Wall_Time |           0.517 |
+|                Samples |           29804 |
+|           Train_Return |            4.96 |
+|            Train_Paths |             911 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           -0.32 |
+|          Final_Robot_Y |           0.327 |
+|   Robot_Travel_Forward |         -0.0717 |
+|  Robot_Travel_Sideways |          0.0028 |
+|   Robot_Travel_Yaw_Deg |            7.64 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0116 |
+|           Critic_Steps |            8285 |
+| Critic_Time_Per_Update |          0.0233 |
+|             Actor_Loss |           -2.58 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            8285 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              16 |
+|              Wall_Time |            0.53 |
+|                Samples |           30365 |
+|           Train_Return |            5.14 |
+|            Train_Paths |             940 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.246 |
+|          Final_Robot_Y |           0.244 |
+|   Robot_Travel_Forward |         -0.0593 |
+|  Robot_Travel_Sideways |        0.000449 |
+|   Robot_Travel_Yaw_Deg |            2.57 |
+|             Max_Torque |              33 |
+|            Critic_Loss |          0.0105 |
+|           Critic_Steps |            8817 |
+| Critic_Time_Per_Update |          0.0211 |
+|             Actor_Loss |           -2.55 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            8817 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              17 |
+|              Wall_Time |           0.543 |
+|                Samples |           30903 |
+|           Train_Return |            6.03 |
+|            Train_Paths |             963 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.234 |
+|          Final_Robot_Y |           0.223 |
+|   Robot_Travel_Forward |          0.0267 |
+|  Robot_Travel_Sideways |          0.0462 |
+|   Robot_Travel_Yaw_Deg |           -9.71 |
+|             Max_Torque |            35.4 |
+|            Critic_Loss |         0.00981 |
+|           Critic_Steps |            9332 |
+| Critic_Time_Per_Update |          0.0234 |
+|             Actor_Loss |           -2.52 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            9332 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              18 |
+|              Wall_Time |           0.556 |
+|                Samples |           31442 |
+|           Train_Return |            5.52 |
+|            Train_Paths |             983 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.301 |
+|          Final_Robot_Y |           0.342 |
+|   Robot_Travel_Forward |         -0.0378 |
+|  Robot_Travel_Sideways |          0.0425 |
+|   Robot_Travel_Yaw_Deg |            2.48 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00911 |
+|           Critic_Steps |            9851 |
+| Critic_Time_Per_Update |          0.0229 |
+|             Actor_Loss |           -2.47 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |            9851 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              19 |
+|              Wall_Time |           0.569 |
+|                Samples |           31991 |
+|           Train_Return |            5.85 |
+|            Train_Paths |            1003 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.286 |
+|          Final_Robot_Y |           -0.35 |
+|   Robot_Travel_Forward |          0.0139 |
+|  Robot_Travel_Sideways |          -0.049 |
+|   Robot_Travel_Yaw_Deg |            14.3 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00904 |
+|           Critic_Steps |           10380 |
+| Critic_Time_Per_Update |          0.0189 |
+|             Actor_Loss |            -2.4 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           10380 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              20 |
+|              Wall_Time |           0.582 |
+|                Samples |           32526 |
+|           Train_Return |            6.84 |
+|            Train_Paths |            1020 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.543 |
+|          Final_Robot_Y |           0.375 |
+|   Robot_Travel_Forward |         -0.0915 |
+|  Robot_Travel_Sideways |          0.0196 |
+|   Robot_Travel_Yaw_Deg |            10.1 |
+|             Max_Torque |              33 |
+|            Critic_Loss |         0.00834 |
+|           Critic_Steps |           10898 |
+| Critic_Time_Per_Update |          0.0207 |
+|             Actor_Loss |           -2.37 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           10898 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              21 |
+|              Wall_Time |           0.594 |
+|                Samples |           33065 |
+|           Train_Return |            5.24 |
+|            Train_Paths |            1042 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.288 |
+|          Final_Robot_Y |          -0.258 |
+|   Robot_Travel_Forward |         -0.0818 |
+|  Robot_Travel_Sideways |         -0.0359 |
+|   Robot_Travel_Yaw_Deg |            13.5 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0083 |
+|           Critic_Steps |           11415 |
+| Critic_Time_Per_Update |          0.0201 |
+|             Actor_Loss |           -2.31 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           11415 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              22 |
+|              Wall_Time |           0.607 |
+|                Samples |           33600 |
+|           Train_Return |            6.46 |
+|            Train_Paths |            1060 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.296 |
+|          Final_Robot_Y |            0.27 |
+|   Robot_Travel_Forward |         -0.0425 |
+|  Robot_Travel_Sideways |           0.045 |
+|   Robot_Travel_Yaw_Deg |           -8.62 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00775 |
+|           Critic_Steps |           11932 |
+| Critic_Time_Per_Update |          0.0226 |
+|             Actor_Loss |           -2.25 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           11932 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              23 |
+|              Wall_Time |            0.62 |
+|                Samples |           34151 |
+|           Train_Return |             6.7 |
+|            Train_Paths |            1077 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.577 |
+|          Final_Robot_Y |           0.283 |
+|   Robot_Travel_Forward |         -0.0554 |
+|  Robot_Travel_Sideways |          0.0701 |
+|   Robot_Travel_Yaw_Deg |           -1.62 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00744 |
+|           Critic_Steps |           12466 |
+| Critic_Time_Per_Update |          0.0205 |
+|             Actor_Loss |            -2.2 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           12466 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              24 |
+|              Wall_Time |           0.633 |
+|                Samples |           34704 |
+|           Train_Return |            6.19 |
+|            Train_Paths |            1091 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |            0.39 |
+|          Final_Robot_Y |           0.373 |
+|   Robot_Travel_Forward |         -0.0111 |
+|  Robot_Travel_Sideways |          0.0779 |
+|   Robot_Travel_Yaw_Deg |           -7.78 |
+|             Max_Torque |            31.9 |
+|            Critic_Loss |         0.00723 |
+|           Critic_Steps |           13005 |
+| Critic_Time_Per_Update |          0.0209 |
+|             Actor_Loss |           -2.13 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           13005 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              25 |
+|              Wall_Time |           0.645 |
+|                Samples |           35243 |
+|           Train_Return |            6.31 |
+|            Train_Paths |            1106 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.455 |
+|          Final_Robot_Y |            -0.5 |
+|   Robot_Travel_Forward |        0.000154 |
+|  Robot_Travel_Sideways |         -0.0496 |
+|   Robot_Travel_Yaw_Deg |            3.88 |
+|             Max_Torque |            34.6 |
+|            Critic_Loss |         0.00717 |
+|           Critic_Steps |           13529 |
+| Critic_Time_Per_Update |          0.0209 |
+|             Actor_Loss |           -2.08 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           13529 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              26 |
+|              Wall_Time |           0.659 |
+|                Samples |           35814 |
+|           Train_Return |            5.98 |
+|            Train_Paths |            1121 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.349 |
+|          Final_Robot_Y |          -0.447 |
+|   Robot_Travel_Forward |          0.0752 |
+|  Robot_Travel_Sideways |         -0.0607 |
+|   Robot_Travel_Yaw_Deg |            9.37 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00696 |
+|           Critic_Steps |           14085 |
+| Critic_Time_Per_Update |          0.0201 |
+|             Actor_Loss |           -2.05 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           14085 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              27 |
+|              Wall_Time |           0.671 |
+|                Samples |           36354 |
+|           Train_Return |            5.72 |
+|            Train_Paths |            1137 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.364 |
+|          Final_Robot_Y |            0.37 |
+|   Robot_Travel_Forward |          0.0764 |
+|  Robot_Travel_Sideways |           0.069 |
+|   Robot_Travel_Yaw_Deg |            4.45 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00656 |
+|           Critic_Steps |           14609 |
+| Critic_Time_Per_Update |          0.0209 |
+|             Actor_Loss |           -2.03 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           14609 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              28 |
+|              Wall_Time |           0.684 |
+|                Samples |           36883 |
+|           Train_Return |            5.67 |
+|            Train_Paths |            1151 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.331 |
+|          Final_Robot_Y |           0.332 |
+|   Robot_Travel_Forward |        -0.00288 |
+|  Robot_Travel_Sideways |             0.1 |
+|   Robot_Travel_Yaw_Deg |            2.51 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00648 |
+|           Critic_Steps |           15124 |
+| Critic_Time_Per_Update |          0.0197 |
+|             Actor_Loss |           -1.98 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           15124 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              29 |
+|              Wall_Time |           0.696 |
+|                Samples |           37422 |
+|           Train_Return |            6.43 |
+|            Train_Paths |            1166 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.347 |
+|          Final_Robot_Y |           0.261 |
+|   Robot_Travel_Forward |         -0.0552 |
+|  Robot_Travel_Sideways |          0.0346 |
+|   Robot_Travel_Yaw_Deg |           -11.1 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00626 |
+|           Critic_Steps |           15648 |
+| Critic_Time_Per_Update |          0.0194 |
+|             Actor_Loss |           -1.98 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           15648 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              30 |
+|              Wall_Time |           0.709 |
+|                Samples |           37968 |
+|           Train_Return |            6.28 |
+|            Train_Paths |            1183 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.372 |
+|          Final_Robot_Y |           0.324 |
+|   Robot_Travel_Forward |          -0.044 |
+|  Robot_Travel_Sideways |           0.012 |
+|   Robot_Travel_Yaw_Deg |           -3.27 |
+|             Max_Torque |            30.3 |
+|            Critic_Loss |         0.00638 |
+|           Critic_Steps |           16177 |
+| Critic_Time_Per_Update |          0.0201 |
+|             Actor_Loss |           -1.91 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           16177 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              31 |
+|              Wall_Time |           0.721 |
+|                Samples |           38494 |
+|           Train_Return |            7.19 |
+|            Train_Paths |            1197 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.427 |
+|          Final_Robot_Y |           0.358 |
+|   Robot_Travel_Forward |         -0.0818 |
+|  Robot_Travel_Sideways |          0.0493 |
+|   Robot_Travel_Yaw_Deg |           -3.35 |
+|             Max_Torque |            33.5 |
+|            Critic_Loss |         0.00582 |
+|           Critic_Steps |           16689 |
+| Critic_Time_Per_Update |          0.0222 |
+|             Actor_Loss |           -1.89 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           16689 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              32 |
+|              Wall_Time |           0.734 |
+|                Samples |           39032 |
+|           Train_Return |            7.47 |
+|            Train_Paths |            1211 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.287 |
+|          Final_Robot_Y |           0.202 |
+|   Robot_Travel_Forward |        -0.00954 |
+|  Robot_Travel_Sideways |          0.0413 |
+|   Robot_Travel_Yaw_Deg |          -0.277 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0059 |
+|           Critic_Steps |           17213 |
+| Critic_Time_Per_Update |            0.02 |
+|             Actor_Loss |           -1.86 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           17213 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              33 |
+|              Wall_Time |           0.747 |
+|                Samples |           39591 |
+|           Train_Return |            7.65 |
+|            Train_Paths |            1224 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.338 |
+|          Final_Robot_Y |           0.463 |
+|   Robot_Travel_Forward |          -0.011 |
+|  Robot_Travel_Sideways |           0.044 |
+|   Robot_Travel_Yaw_Deg |           -12.9 |
+|             Max_Torque |            32.6 |
+|            Critic_Loss |         0.00577 |
+|           Critic_Steps |           17759 |
+| Critic_Time_Per_Update |            0.02 |
+|             Actor_Loss |           -1.87 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           17759 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              34 |
+|              Wall_Time |           0.759 |
+|                Samples |           40133 |
+|           Train_Return |            7.09 |
+|            Train_Paths |            1239 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.396 |
+|          Final_Robot_Y |           0.214 |
+|   Robot_Travel_Forward |         -0.0107 |
+|  Robot_Travel_Sideways |          0.0106 |
+|   Robot_Travel_Yaw_Deg |           -1.63 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00572 |
+|           Critic_Steps |           18286 |
+| Critic_Time_Per_Update |          0.0191 |
+|             Actor_Loss |           -1.85 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           18286 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              35 |
+|              Wall_Time |           0.772 |
+|                Samples |           40692 |
+|           Train_Return |            8.18 |
+|            Train_Paths |            1253 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |            0.35 |
+|          Final_Robot_Y |           0.344 |
+|   Robot_Travel_Forward |         -0.0238 |
+|  Robot_Travel_Sideways |          0.0616 |
+|   Robot_Travel_Yaw_Deg |            11.9 |
+|             Max_Torque |            33.1 |
+|            Critic_Loss |         0.00567 |
+|           Critic_Steps |           18831 |
+| Critic_Time_Per_Update |          0.0191 |
+|             Actor_Loss |           -1.85 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           18831 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              36 |
+|              Wall_Time |           0.785 |
+|                Samples |           41221 |
+|           Train_Return |            7.31 |
+|            Train_Paths |            1266 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.433 |
+|          Final_Robot_Y |          -0.462 |
+|   Robot_Travel_Forward |         -0.0762 |
+|  Robot_Travel_Sideways |         0.00755 |
+|   Robot_Travel_Yaw_Deg |            14.2 |
+|             Max_Torque |            32.1 |
+|            Critic_Loss |         0.00541 |
+|           Critic_Steps |           19347 |
+| Critic_Time_Per_Update |          0.0196 |
+|             Actor_Loss |           -1.82 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           19347 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              37 |
+|              Wall_Time |           0.798 |
+|                Samples |           41795 |
+|           Train_Return |            7.07 |
+|            Train_Paths |            1281 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.349 |
+|          Final_Robot_Y |          -0.481 |
+|   Robot_Travel_Forward |          0.0208 |
+|  Robot_Travel_Sideways |           -0.02 |
+|   Robot_Travel_Yaw_Deg |            1.81 |
+|             Max_Torque |            32.4 |
+|            Critic_Loss |         0.00557 |
+|           Critic_Steps |           19906 |
+| Critic_Time_Per_Update |          0.0201 |
+|             Actor_Loss |           -1.83 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           19906 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              38 |
+|              Wall_Time |           0.811 |
+|                Samples |           42336 |
+|           Train_Return |            6.56 |
+|            Train_Paths |            1295 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.339 |
+|          Final_Robot_Y |           0.463 |
+|   Robot_Travel_Forward |         -0.0163 |
+|  Robot_Travel_Sideways |           0.102 |
+|   Robot_Travel_Yaw_Deg |            10.7 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00543 |
+|           Critic_Steps |           20433 |
+| Critic_Time_Per_Update |          0.0204 |
+|             Actor_Loss |           -1.82 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           20433 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              39 |
+|              Wall_Time |           0.823 |
+|                Samples |           42892 |
+|           Train_Return |            8.03 |
+|            Train_Paths |            1309 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.322 |
+|          Final_Robot_Y |           0.351 |
+|   Robot_Travel_Forward |         -0.0292 |
+|  Robot_Travel_Sideways |          0.0701 |
+|   Robot_Travel_Yaw_Deg |            8.64 |
+|             Max_Torque |            35.3 |
+|            Critic_Loss |         0.00536 |
+|           Critic_Steps |           20975 |
+| Critic_Time_Per_Update |          0.0194 |
+|             Actor_Loss |           -1.82 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           20975 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              40 |
+|              Wall_Time |           0.836 |
+|                Samples |           43420 |
+|           Train_Return |            7.17 |
+|            Train_Paths |            1322 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.607 |
+|          Final_Robot_Y |           0.291 |
+|   Robot_Travel_Forward |          0.0891 |
+|  Robot_Travel_Sideways |          0.0534 |
+|   Robot_Travel_Yaw_Deg |           -1.64 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00535 |
+|           Critic_Steps |           21490 |
+| Critic_Time_Per_Update |          0.0196 |
+|             Actor_Loss |            -1.8 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           21490 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              41 |
+|              Wall_Time |           0.848 |
+|                Samples |           43946 |
+|           Train_Return |            7.51 |
+|            Train_Paths |            1335 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.371 |
+|          Final_Robot_Y |           0.166 |
+|   Robot_Travel_Forward |          0.0631 |
+|  Robot_Travel_Sideways |        -0.00454 |
+|   Robot_Travel_Yaw_Deg |           -5.38 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00517 |
+|           Critic_Steps |           22003 |
+| Critic_Time_Per_Update |          0.0197 |
+|             Actor_Loss |            -1.8 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           22003 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              42 |
+|              Wall_Time |           0.861 |
+|                Samples |           44509 |
+|           Train_Return |            7.49 |
+|            Train_Paths |            1350 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.358 |
+|          Final_Robot_Y |           0.246 |
+|   Robot_Travel_Forward |         -0.0511 |
+|  Robot_Travel_Sideways |          0.0294 |
+|   Robot_Travel_Yaw_Deg |            1.32 |
+|             Max_Torque |            34.4 |
+|            Critic_Loss |         0.00544 |
+|           Critic_Steps |           22551 |
+| Critic_Time_Per_Update |          0.0205 |
+|             Actor_Loss |           -1.81 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           22551 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              43 |
+|              Wall_Time |           0.874 |
+|                Samples |           45056 |
+|           Train_Return |            8.19 |
+|            Train_Paths |            1364 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.447 |
+|          Final_Robot_Y |          -0.242 |
+|   Robot_Travel_Forward |           0.144 |
+|  Robot_Travel_Sideways |          0.0108 |
+|   Robot_Travel_Yaw_Deg |           -4.67 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00523 |
+|           Critic_Steps |           23084 |
+| Critic_Time_Per_Update |          0.0208 |
+|             Actor_Loss |           -1.79 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           23084 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              44 |
+|              Wall_Time |           0.887 |
+|                Samples |           45602 |
+|           Train_Return |            8.16 |
+|            Train_Paths |            1379 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.425 |
+|          Final_Robot_Y |           0.262 |
+|   Robot_Travel_Forward |          0.0291 |
+|  Robot_Travel_Sideways |          0.0594 |
+|   Robot_Travel_Yaw_Deg |             -13 |
+|             Max_Torque |            34.7 |
+|            Critic_Loss |         0.00532 |
+|           Critic_Steps |           23615 |
+| Critic_Time_Per_Update |          0.0199 |
+|             Actor_Loss |           -1.79 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           23615 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              45 |
+|              Wall_Time |           0.899 |
+|                Samples |           46134 |
+|           Train_Return |            7.72 |
+|            Train_Paths |            1393 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.491 |
+|          Final_Robot_Y |           0.281 |
+|   Robot_Travel_Forward |           0.135 |
+|  Robot_Travel_Sideways |          0.0461 |
+|   Robot_Travel_Yaw_Deg |            15.8 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00526 |
+|           Critic_Steps |           24133 |
+| Critic_Time_Per_Update |          0.0214 |
+|             Actor_Loss |            -1.8 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           24133 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              46 |
+|              Wall_Time |           0.912 |
+|                Samples |           46692 |
+|           Train_Return |            6.96 |
+|            Train_Paths |            1408 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           -0.37 |
+|          Final_Robot_Y |           0.196 |
+|   Robot_Travel_Forward |         -0.0189 |
+|  Robot_Travel_Sideways |         -0.0178 |
+|   Robot_Travel_Yaw_Deg |            14.5 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00515 |
+|           Critic_Steps |           24676 |
+| Critic_Time_Per_Update |          0.0219 |
+|             Actor_Loss |           -1.79 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           24676 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              47 |
+|              Wall_Time |           0.925 |
+|                Samples |           47223 |
+|           Train_Return |            7.56 |
+|            Train_Paths |            1421 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.388 |
+|          Final_Robot_Y |            0.22 |
+|   Robot_Travel_Forward |          0.0831 |
+|  Robot_Travel_Sideways |           0.023 |
+|   Robot_Travel_Yaw_Deg |            10.3 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00525 |
+|           Critic_Steps |           25194 |
+| Critic_Time_Per_Update |          0.0217 |
+|             Actor_Loss |           -1.79 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           25194 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              48 |
+|              Wall_Time |           0.941 |
+|                Samples |           47759 |
+|           Train_Return |            8.28 |
+|            Train_Paths |            1434 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.491 |
+|          Final_Robot_Y |           0.259 |
+|   Robot_Travel_Forward |           0.168 |
+|  Robot_Travel_Sideways |          0.0456 |
+|   Robot_Travel_Yaw_Deg |            1.01 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00517 |
+|           Critic_Steps |           25717 |
+| Critic_Time_Per_Update |          0.0319 |
+|             Actor_Loss |           -1.81 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           25717 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              49 |
+|              Wall_Time |           0.976 |
+|                Samples |           48319 |
+|           Train_Return |            8.78 |
+|            Train_Paths |            1447 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.363 |
+|          Final_Robot_Y |            0.29 |
+|   Robot_Travel_Forward |         -0.0395 |
+|  Robot_Travel_Sideways |           0.105 |
+|   Robot_Travel_Yaw_Deg |            1.76 |
+|             Max_Torque |            31.4 |
+|            Critic_Loss |         0.00516 |
+|           Critic_Steps |           26264 |
+| Critic_Time_Per_Update |          0.0333 |
+|             Actor_Loss |            -1.8 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           26264 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              50 |
+|              Wall_Time |               1 |
+|                Samples |           48850 |
+|           Train_Return |            8.11 |
+|            Train_Paths |            1460 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.468 |
+|          Final_Robot_Y |          -0.254 |
+|   Robot_Travel_Forward |          0.0135 |
+|  Robot_Travel_Sideways |         -0.0816 |
+|   Robot_Travel_Yaw_Deg |            1.06 |
+|             Max_Torque |            33.1 |
+|            Critic_Loss |         0.00511 |
+|           Critic_Steps |           26782 |
+| Critic_Time_Per_Update |          0.0296 |
+|             Actor_Loss |           -1.83 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           26782 |
+--------------------------------------------
+Joint angle limits exceeded
+angles: [-0.20107253  0.71620654 -1.60557452  0.50293813  1.50943453 -2.71828075
+ -0.06457637  0.56181356 -1.91964702 -0.10977225  2.68994273 -2.25047835]
+--------------------------------------------
+|              Iteration |              51 |
+|              Wall_Time |            1.02 |
+|                Samples |           49385 |
+|           Train_Return |            6.73 |
+|            Train_Paths |            1474 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.374 |
+|          Final_Robot_Y |          -0.447 |
+|   Robot_Travel_Forward |         -0.0386 |
+|  Robot_Travel_Sideways |        -0.00386 |
+|   Robot_Travel_Yaw_Deg |            11.4 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00526 |
+|           Critic_Steps |           27303 |
+| Critic_Time_Per_Update |          0.0251 |
+|             Actor_Loss |           -1.83 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           27303 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              52 |
+|              Wall_Time |            1.03 |
+|                Samples |           49940 |
+|           Train_Return |            7.57 |
+|            Train_Paths |            1489 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.441 |
+|          Final_Robot_Y |          -0.243 |
+|   Robot_Travel_Forward |           0.116 |
+|  Robot_Travel_Sideways |          0.0331 |
+|   Robot_Travel_Yaw_Deg |           -21.5 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00519 |
+|           Critic_Steps |           27843 |
+| Critic_Time_Per_Update |          0.0247 |
+|             Actor_Loss |           -1.81 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           27843 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              53 |
+|              Wall_Time |            1.05 |
+|                Samples |           50476 |
+|           Train_Return |            7.61 |
+|            Train_Paths |            1503 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.556 |
+|          Final_Robot_Y |          -0.157 |
+|   Robot_Travel_Forward |           0.103 |
+|  Robot_Travel_Sideways |          0.0216 |
+|   Robot_Travel_Yaw_Deg |              13 |
+|             Max_Torque |            35.1 |
+|            Critic_Loss |         0.00522 |
+|           Critic_Steps |           28365 |
+| Critic_Time_Per_Update |          0.0196 |
+|             Actor_Loss |           -1.82 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           28365 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              54 |
+|              Wall_Time |            1.06 |
+|                Samples |           51004 |
+|           Train_Return |            7.21 |
+|            Train_Paths |            1516 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.338 |
+|          Final_Robot_Y |           0.239 |
+|   Robot_Travel_Forward |         -0.0784 |
+|  Robot_Travel_Sideways |          0.0268 |
+|   Robot_Travel_Yaw_Deg |           -5.76 |
+|             Max_Torque |            32.5 |
+|            Critic_Loss |         0.00531 |
+|           Critic_Steps |           28880 |
+| Critic_Time_Per_Update |          0.0211 |
+|             Actor_Loss |           -1.84 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           28880 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              55 |
+|              Wall_Time |            1.07 |
+|                Samples |           51542 |
+|           Train_Return |            8.44 |
+|            Train_Paths |            1529 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.324 |
+|          Final_Robot_Y |           0.332 |
+|   Robot_Travel_Forward |         -0.0477 |
+|  Robot_Travel_Sideways |          0.0658 |
+|   Robot_Travel_Yaw_Deg |            16.4 |
+|             Max_Torque |            30.4 |
+|            Critic_Loss |         0.00529 |
+|           Critic_Steps |           29405 |
+| Critic_Time_Per_Update |            0.02 |
+|             Actor_Loss |           -1.84 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           29405 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              56 |
+|              Wall_Time |            1.09 |
+|                Samples |           52106 |
+|           Train_Return |            7.81 |
+|            Train_Paths |            1544 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.645 |
+|          Final_Robot_Y |          -0.266 |
+|   Robot_Travel_Forward |          0.0165 |
+|  Robot_Travel_Sideways |         -0.0539 |
+|   Robot_Travel_Yaw_Deg |            1.12 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00535 |
+|           Critic_Steps |           29954 |
+| Critic_Time_Per_Update |          0.0207 |
+|             Actor_Loss |           -1.83 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           29954 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              57 |
+|              Wall_Time |             1.1 |
+|                Samples |           52679 |
+|           Train_Return |            7.69 |
+|            Train_Paths |            1556 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.597 |
+|          Final_Robot_Y |           0.527 |
+|   Robot_Travel_Forward |           0.167 |
+|  Robot_Travel_Sideways |           0.114 |
+|   Robot_Travel_Yaw_Deg |           -1.71 |
+|             Max_Torque |            31.7 |
+|            Critic_Loss |         0.00526 |
+|           Critic_Steps |           30515 |
+| Critic_Time_Per_Update |          0.0187 |
+|             Actor_Loss |           -1.85 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           30515 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              58 |
+|              Wall_Time |            1.11 |
+|                Samples |           53226 |
+|           Train_Return |            8.84 |
+|            Train_Paths |            1570 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           -0.36 |
+|          Final_Robot_Y |           0.181 |
+|   Robot_Travel_Forward |        0.000716 |
+|  Robot_Travel_Sideways |          0.0171 |
+|   Robot_Travel_Yaw_Deg |            6.82 |
+|             Max_Torque |            33.4 |
+|            Critic_Loss |          0.0054 |
+|           Critic_Steps |           31048 |
+| Critic_Time_Per_Update |          0.0206 |
+|             Actor_Loss |           -1.86 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           31048 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              59 |
+|              Wall_Time |            1.13 |
+|                Samples |           53762 |
+|           Train_Return |            7.63 |
+|            Train_Paths |            1584 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.462 |
+|          Final_Robot_Y |          -0.373 |
+|   Robot_Travel_Forward |          0.0504 |
+|  Robot_Travel_Sideways |         -0.0728 |
+|   Robot_Travel_Yaw_Deg |           -3.98 |
+|             Max_Torque |            33.4 |
+|            Critic_Loss |         0.00541 |
+|           Critic_Steps |           31570 |
+| Critic_Time_Per_Update |          0.0209 |
+|             Actor_Loss |           -1.86 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           31570 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              60 |
+|              Wall_Time |            1.14 |
+|                Samples |           54306 |
+|           Train_Return |            8.95 |
+|            Train_Paths |            1597 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.496 |
+|          Final_Robot_Y |           0.288 |
+|   Robot_Travel_Forward |          0.0612 |
+|  Robot_Travel_Sideways |            0.01 |
+|   Robot_Travel_Yaw_Deg |            1.23 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00551 |
+|           Critic_Steps |           32101 |
+| Critic_Time_Per_Update |          0.0233 |
+|             Actor_Loss |           -1.87 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           32101 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              61 |
+|              Wall_Time |            1.15 |
+|                Samples |           54861 |
+|           Train_Return |            8.35 |
+|            Train_Paths |            1610 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.384 |
+|          Final_Robot_Y |          -0.319 |
+|   Robot_Travel_Forward |           0.124 |
+|  Robot_Travel_Sideways |          0.0294 |
+|   Robot_Travel_Yaw_Deg |            19.2 |
+|             Max_Torque |            33.7 |
+|            Critic_Loss |          0.0054 |
+|           Critic_Steps |           32643 |
+| Critic_Time_Per_Update |          0.0196 |
+|             Actor_Loss |           -1.89 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           32643 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              62 |
+|              Wall_Time |            1.17 |
+|                Samples |           55419 |
+|           Train_Return |            8.17 |
+|            Train_Paths |            1625 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.429 |
+|          Final_Robot_Y |          -0.239 |
+|   Robot_Travel_Forward |         -0.0413 |
+|  Robot_Travel_Sideways |         -0.0178 |
+|   Robot_Travel_Yaw_Deg |          -0.585 |
+|             Max_Torque |            30.8 |
+|            Critic_Loss |         0.00553 |
+|           Critic_Steps |           33186 |
+| Critic_Time_Per_Update |          0.0238 |
+|             Actor_Loss |           -1.87 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           33186 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              63 |
+|              Wall_Time |            1.18 |
+|                Samples |           55970 |
+|           Train_Return |            7.99 |
+|            Train_Paths |            1639 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.286 |
+|          Final_Robot_Y |           0.319 |
+|   Robot_Travel_Forward |          0.0537 |
+|  Robot_Travel_Sideways |          0.0521 |
+|   Robot_Travel_Yaw_Deg |           -4.07 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00539 |
+|           Critic_Steps |           33723 |
+| Critic_Time_Per_Update |          0.0259 |
+|             Actor_Loss |           -1.89 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           33723 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              64 |
+|              Wall_Time |             1.2 |
+|                Samples |           56499 |
+|           Train_Return |            7.53 |
+|            Train_Paths |            1654 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.394 |
+|          Final_Robot_Y |           0.327 |
+|   Robot_Travel_Forward |          0.0665 |
+|  Robot_Travel_Sideways |          0.0476 |
+|   Robot_Travel_Yaw_Deg |            7.29 |
+|             Max_Torque |            33.2 |
+|            Critic_Loss |         0.00556 |
+|           Critic_Steps |           34237 |
+| Critic_Time_Per_Update |          0.0271 |
+|             Actor_Loss |           -1.88 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           34237 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              65 |
+|              Wall_Time |            1.22 |
+|                Samples |           57043 |
+|           Train_Return |            8.95 |
+|            Train_Paths |            1667 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.371 |
+|          Final_Robot_Y |           0.307 |
+|   Robot_Travel_Forward |         -0.0722 |
+|  Robot_Travel_Sideways |          0.0602 |
+|   Robot_Travel_Yaw_Deg |            12.3 |
+|             Max_Torque |            31.4 |
+|            Critic_Loss |          0.0056 |
+|           Critic_Steps |           34768 |
+| Critic_Time_Per_Update |          0.0247 |
+|             Actor_Loss |            -1.9 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           34768 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              66 |
+|              Wall_Time |            1.24 |
+|                Samples |           57613 |
+|           Train_Return |            7.65 |
+|            Train_Paths |            1681 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |            0.54 |
+|          Final_Robot_Y |           0.418 |
+|   Robot_Travel_Forward |          0.0517 |
+|  Robot_Travel_Sideways |           0.103 |
+|   Robot_Travel_Yaw_Deg |         -0.0854 |
+|             Max_Torque |            30.9 |
+|            Critic_Loss |         0.00576 |
+|           Critic_Steps |           35324 |
+| Critic_Time_Per_Update |           0.022 |
+|             Actor_Loss |           -1.92 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           35324 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              67 |
+|              Wall_Time |            1.25 |
+|                Samples |           58176 |
+|           Train_Return |            8.06 |
+|            Train_Paths |            1694 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.387 |
+|          Final_Robot_Y |          -0.454 |
+|   Robot_Travel_Forward |           0.134 |
+|  Robot_Travel_Sideways |          -0.114 |
+|   Robot_Travel_Yaw_Deg |            6.94 |
+|             Max_Torque |            31.6 |
+|            Critic_Loss |         0.00566 |
+|           Critic_Steps |           35874 |
+| Critic_Time_Per_Update |          0.0227 |
+|             Actor_Loss |           -1.91 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           35874 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              68 |
+|              Wall_Time |            1.26 |
+|                Samples |           58749 |
+|           Train_Return |            7.98 |
+|            Train_Paths |            1707 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.281 |
+|          Final_Robot_Y |          -0.321 |
+|   Robot_Travel_Forward |           0.033 |
+|  Robot_Travel_Sideways |       -0.000628 |
+|   Robot_Travel_Yaw_Deg |            3.65 |
+|             Max_Torque |            33.9 |
+|            Critic_Loss |         0.00566 |
+|           Critic_Steps |           36434 |
+| Critic_Time_Per_Update |          0.0209 |
+|             Actor_Loss |           -1.93 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           36434 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              69 |
+|              Wall_Time |            1.28 |
+|                Samples |           59275 |
+|           Train_Return |            8.17 |
+|            Train_Paths |            1719 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.377 |
+|          Final_Robot_Y |          -0.281 |
+|   Robot_Travel_Forward |        -0.00427 |
+|  Robot_Travel_Sideways |         -0.0367 |
+|   Robot_Travel_Yaw_Deg |            2.86 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00579 |
+|           Critic_Steps |           36948 |
+| Critic_Time_Per_Update |          0.0205 |
+|             Actor_Loss |           -1.92 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           36948 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              70 |
+|              Wall_Time |            1.29 |
+|                Samples |           59823 |
+|           Train_Return |            8.26 |
+|            Train_Paths |            1732 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.334 |
+|          Final_Robot_Y |          -0.188 |
+|   Robot_Travel_Forward |          0.0567 |
+|  Robot_Travel_Sideways |          0.0112 |
+|   Robot_Travel_Yaw_Deg |            3.23 |
+|             Max_Torque |            33.7 |
+|            Critic_Loss |         0.00568 |
+|           Critic_Steps |           37483 |
+| Critic_Time_Per_Update |          0.0214 |
+|             Actor_Loss |           -1.93 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           37483 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              71 |
+|              Wall_Time |             1.3 |
+|                Samples |           60370 |
+|           Train_Return |            8.78 |
+|            Train_Paths |            1746 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.422 |
+|          Final_Robot_Y |           0.272 |
+|   Robot_Travel_Forward |          0.0849 |
+|  Robot_Travel_Sideways |         -0.0384 |
+|   Robot_Travel_Yaw_Deg |            3.24 |
+|             Max_Torque |            33.3 |
+|            Critic_Loss |         0.00573 |
+|           Critic_Steps |           38016 |
+| Critic_Time_Per_Update |          0.0227 |
+|             Actor_Loss |           -1.94 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           38016 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              72 |
+|              Wall_Time |            1.32 |
+|                Samples |           60895 |
+|           Train_Return |            9.29 |
+|            Train_Paths |            1758 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.488 |
+|          Final_Robot_Y |           0.308 |
+|   Robot_Travel_Forward |           0.156 |
+|  Robot_Travel_Sideways |         -0.0252 |
+|   Robot_Travel_Yaw_Deg |           -1.82 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00582 |
+|           Critic_Steps |           38529 |
+| Critic_Time_Per_Update |          0.0209 |
+|             Actor_Loss |           -1.93 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           38529 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              73 |
+|              Wall_Time |            1.33 |
+|                Samples |           61422 |
+|           Train_Return |            8.23 |
+|            Train_Paths |            1770 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.405 |
+|          Final_Robot_Y |          -0.394 |
+|   Robot_Travel_Forward |        -0.00806 |
+|  Robot_Travel_Sideways |         -0.0338 |
+|   Robot_Travel_Yaw_Deg |            7.52 |
+|             Max_Torque |            34.6 |
+|            Critic_Loss |         0.00567 |
+|           Critic_Steps |           39044 |
+| Critic_Time_Per_Update |          0.0237 |
+|             Actor_Loss |           -1.94 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           39044 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              74 |
+|              Wall_Time |            1.34 |
+|                Samples |           61987 |
+|           Train_Return |            7.87 |
+|            Train_Paths |            1784 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.447 |
+|          Final_Robot_Y |           0.238 |
+|   Robot_Travel_Forward |        -0.00629 |
+|  Robot_Travel_Sideways |          0.0207 |
+|   Robot_Travel_Yaw_Deg |            16.8 |
+|             Max_Torque |            33.2 |
+|            Critic_Loss |         0.00592 |
+|           Critic_Steps |           39595 |
+| Critic_Time_Per_Update |          0.0205 |
+|             Actor_Loss |           -1.95 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           39595 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              75 |
+|              Wall_Time |            1.35 |
+|                Samples |           62535 |
+|           Train_Return |            8.11 |
+|            Train_Paths |            1796 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.446 |
+|          Final_Robot_Y |           0.257 |
+|   Robot_Travel_Forward |           0.174 |
+|  Robot_Travel_Sideways |          0.0399 |
+|   Robot_Travel_Yaw_Deg |            8.33 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00574 |
+|           Critic_Steps |           40131 |
+| Critic_Time_Per_Update |          0.0211 |
+|             Actor_Loss |           -1.94 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           40131 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              76 |
+|              Wall_Time |            1.37 |
+|                Samples |           63098 |
+|           Train_Return |            7.13 |
+|            Train_Paths |            1812 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |            0.41 |
+|          Final_Robot_Y |           0.416 |
+|   Robot_Travel_Forward |          0.0447 |
+|  Robot_Travel_Sideways |          0.0498 |
+|   Robot_Travel_Yaw_Deg |            2.84 |
+|             Max_Torque |            34.9 |
+|            Critic_Loss |         0.00584 |
+|           Critic_Steps |           40678 |
+| Critic_Time_Per_Update |          0.0196 |
+|             Actor_Loss |           -1.95 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           40678 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              77 |
+|              Wall_Time |            1.38 |
+|                Samples |           63634 |
+|           Train_Return |            8.93 |
+|            Train_Paths |            1824 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.247 |
+|          Final_Robot_Y |          -0.224 |
+|   Robot_Travel_Forward |        -0.00495 |
+|  Robot_Travel_Sideways |         -0.0102 |
+|   Robot_Travel_Yaw_Deg |           -2.71 |
+|             Max_Torque |              31 |
+|            Critic_Loss |          0.0059 |
+|           Critic_Steps |           41202 |
+| Critic_Time_Per_Update |          0.0196 |
+|             Actor_Loss |           -1.96 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           41202 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              78 |
+|              Wall_Time |            1.39 |
+|                Samples |           64200 |
+|           Train_Return |            8.51 |
+|            Train_Paths |            1839 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.601 |
+|          Final_Robot_Y |          -0.334 |
+|   Robot_Travel_Forward |          0.0899 |
+|  Robot_Travel_Sideways |         -0.0382 |
+|   Robot_Travel_Yaw_Deg |           0.637 |
+|             Max_Torque |            30.7 |
+|            Critic_Loss |         0.00592 |
+|           Critic_Steps |           41753 |
+| Critic_Time_Per_Update |          0.0211 |
+|             Actor_Loss |           -1.95 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           41753 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              79 |
+|              Wall_Time |            1.41 |
+|                Samples |           64749 |
+|           Train_Return |            7.79 |
+|            Train_Paths |            1852 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.606 |
+|          Final_Robot_Y |          -0.349 |
+|   Robot_Travel_Forward |           0.145 |
+|  Robot_Travel_Sideways |         -0.0439 |
+|   Robot_Travel_Yaw_Deg |           -15.4 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00587 |
+|           Critic_Steps |           42289 |
+| Critic_Time_Per_Update |          0.0193 |
+|             Actor_Loss |           -1.96 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           42289 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              80 |
+|              Wall_Time |            1.42 |
+|                Samples |           65276 |
+|           Train_Return |            8.07 |
+|            Train_Paths |            1864 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.545 |
+|          Final_Robot_Y |           0.373 |
+|   Robot_Travel_Forward |          0.0232 |
+|  Robot_Travel_Sideways |          0.0937 |
+|   Robot_Travel_Yaw_Deg |            1.67 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00581 |
+|           Critic_Steps |           42804 |
+| Critic_Time_Per_Update |          0.0207 |
+|             Actor_Loss |           -1.97 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           42804 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              81 |
+|              Wall_Time |            1.43 |
+|                Samples |           65807 |
+|           Train_Return |            8.64 |
+|            Train_Paths |            1876 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.408 |
+|          Final_Robot_Y |          -0.417 |
+|   Robot_Travel_Forward |          0.0468 |
+|  Robot_Travel_Sideways |         -0.0548 |
+|   Robot_Travel_Yaw_Deg |           -8.57 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00598 |
+|           Critic_Steps |           43323 |
+| Critic_Time_Per_Update |          0.0207 |
+|             Actor_Loss |           -1.97 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           43323 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              82 |
+|              Wall_Time |            1.44 |
+|                Samples |           66356 |
+|           Train_Return |            8.63 |
+|            Train_Paths |            1889 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.435 |
+|          Final_Robot_Y |            -0.3 |
+|   Robot_Travel_Forward |          0.0239 |
+|  Robot_Travel_Sideways |         -0.0714 |
+|   Robot_Travel_Yaw_Deg |            13.7 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00592 |
+|           Critic_Steps |           43859 |
+| Critic_Time_Per_Update |          0.0202 |
+|             Actor_Loss |              -2 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           43859 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              83 |
+|              Wall_Time |            1.46 |
+|                Samples |           66889 |
+|           Train_Return |             8.6 |
+|            Train_Paths |            1901 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.227 |
+|          Final_Robot_Y |           -0.14 |
+|   Robot_Travel_Forward |           0.037 |
+|  Robot_Travel_Sideways |         0.00126 |
+|   Robot_Travel_Yaw_Deg |           -13.4 |
+|             Max_Torque |            34.7 |
+|            Critic_Loss |         0.00597 |
+|           Critic_Steps |           44380 |
+| Critic_Time_Per_Update |          0.0228 |
+|             Actor_Loss |           -1.97 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           44380 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              84 |
+|              Wall_Time |            1.47 |
+|                Samples |           67459 |
+|           Train_Return |            8.27 |
+|            Train_Paths |            1915 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.339 |
+|          Final_Robot_Y |          -0.347 |
+|   Robot_Travel_Forward |          0.0483 |
+|  Robot_Travel_Sideways |         -0.0281 |
+|   Robot_Travel_Yaw_Deg |            7.49 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00606 |
+|           Critic_Steps |           44936 |
+| Critic_Time_Per_Update |          0.0193 |
+|             Actor_Loss |           -1.98 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           44936 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              85 |
+|              Wall_Time |            1.48 |
+|                Samples |           68032 |
+|           Train_Return |            9.12 |
+|            Train_Paths |            1929 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.289 |
+|          Final_Robot_Y |           -0.29 |
+|   Robot_Travel_Forward |           0.024 |
+|  Robot_Travel_Sideways |        -0.00413 |
+|   Robot_Travel_Yaw_Deg |            3.97 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00619 |
+|           Critic_Steps |           45495 |
+| Critic_Time_Per_Update |          0.0206 |
+|             Actor_Loss |           -2.01 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           45495 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              86 |
+|              Wall_Time |             1.5 |
+|                Samples |           68571 |
+|           Train_Return |            8.46 |
+|            Train_Paths |            1942 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.455 |
+|          Final_Robot_Y |           0.331 |
+|   Robot_Travel_Forward |         -0.0526 |
+|  Robot_Travel_Sideways |         0.00237 |
+|   Robot_Travel_Yaw_Deg |            4.77 |
+|             Max_Torque |            34.6 |
+|            Critic_Loss |         0.00616 |
+|           Critic_Steps |           46021 |
+| Critic_Time_Per_Update |          0.0226 |
+|             Actor_Loss |           -2.01 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           46021 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              87 |
+|              Wall_Time |            1.51 |
+|                Samples |           69106 |
+|           Train_Return |             7.8 |
+|            Train_Paths |            1955 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.323 |
+|          Final_Robot_Y |          -0.416 |
+|   Robot_Travel_Forward |          0.0231 |
+|  Robot_Travel_Sideways |         -0.0616 |
+|   Robot_Travel_Yaw_Deg |            11.8 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00624 |
+|           Critic_Steps |           46543 |
+| Critic_Time_Per_Update |          0.0205 |
+|             Actor_Loss |           -2.01 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           46543 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              88 |
+|              Wall_Time |            1.52 |
+|                Samples |           69639 |
+|           Train_Return |             8.5 |
+|            Train_Paths |            1969 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.298 |
+|          Final_Robot_Y |           0.177 |
+|   Robot_Travel_Forward |         -0.0598 |
+|  Robot_Travel_Sideways |       -0.000493 |
+|   Robot_Travel_Yaw_Deg |            5.64 |
+|             Max_Torque |            34.1 |
+|            Critic_Loss |         0.00631 |
+|           Critic_Steps |           47062 |
+| Critic_Time_Per_Update |          0.0201 |
+|             Actor_Loss |           -2.03 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           47062 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              89 |
+|              Wall_Time |            1.53 |
+|                Samples |           70165 |
+|           Train_Return |            8.01 |
+|            Train_Paths |            1982 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.363 |
+|          Final_Robot_Y |          -0.299 |
+|   Robot_Travel_Forward |          0.0246 |
+|  Robot_Travel_Sideways |        -0.00446 |
+|   Robot_Travel_Yaw_Deg |            9.83 |
+|             Max_Torque |            32.6 |
+|            Critic_Loss |         0.00643 |
+|           Critic_Steps |           47575 |
+| Critic_Time_Per_Update |           0.021 |
+|             Actor_Loss |           -2.02 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           47575 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              90 |
+|              Wall_Time |            1.55 |
+|                Samples |           70696 |
+|           Train_Return |            8.38 |
+|            Train_Paths |            1996 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.537 |
+|          Final_Robot_Y |           -0.26 |
+|   Robot_Travel_Forward |          0.0392 |
+|  Robot_Travel_Sideways |          0.0135 |
+|   Robot_Travel_Yaw_Deg |           -3.42 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00643 |
+|           Critic_Steps |           48092 |
+| Critic_Time_Per_Update |           0.021 |
+|             Actor_Loss |           -2.02 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           48092 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              91 |
+|              Wall_Time |            1.56 |
+|                Samples |           71225 |
+|           Train_Return |            8.63 |
+|            Train_Paths |            2010 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.321 |
+|          Final_Robot_Y |          -0.221 |
+|   Robot_Travel_Forward |          0.0283 |
+|  Robot_Travel_Sideways |         -0.0162 |
+|   Robot_Travel_Yaw_Deg |          -0.187 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00643 |
+|           Critic_Steps |           48607 |
+| Critic_Time_Per_Update |          0.0208 |
+|             Actor_Loss |           -2.04 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           48607 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              92 |
+|              Wall_Time |            1.57 |
+|                Samples |           71770 |
+|           Train_Return |            9.06 |
+|            Train_Paths |            2023 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.458 |
+|          Final_Robot_Y |           0.409 |
+|   Robot_Travel_Forward |           0.129 |
+|  Robot_Travel_Sideways |           0.101 |
+|   Robot_Travel_Yaw_Deg |           -3.47 |
+|             Max_Torque |            33.9 |
+|            Critic_Loss |         0.00658 |
+|           Critic_Steps |           49139 |
+| Critic_Time_Per_Update |          0.0206 |
+|             Actor_Loss |           -2.05 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           49139 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              93 |
+|              Wall_Time |            1.58 |
+|                Samples |           72320 |
+|           Train_Return |            7.38 |
+|            Train_Paths |            2037 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.383 |
+|          Final_Robot_Y |           0.469 |
+|   Robot_Travel_Forward |          0.0417 |
+|  Robot_Travel_Sideways |          0.0516 |
+|   Robot_Travel_Yaw_Deg |          -0.167 |
+|             Max_Torque |            35.3 |
+|            Critic_Loss |         0.00656 |
+|           Critic_Steps |           49675 |
+| Critic_Time_Per_Update |          0.0198 |
+|             Actor_Loss |           -2.06 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           49675 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              94 |
+|              Wall_Time |             1.6 |
+|                Samples |           72846 |
+|           Train_Return |            8.14 |
+|            Train_Paths |            2050 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |          -0.454 |
+|          Final_Robot_Y |           0.232 |
+|   Robot_Travel_Forward |           0.101 |
+|  Robot_Travel_Sideways |          0.0347 |
+|   Robot_Travel_Yaw_Deg |           -7.84 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00677 |
+|           Critic_Steps |           50188 |
+| Critic_Time_Per_Update |          0.0205 |
+|             Actor_Loss |           -2.05 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           50188 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              95 |
+|              Wall_Time |            1.61 |
+|                Samples |           73398 |
+|           Train_Return |            8.76 |
+|            Train_Paths |            2063 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.265 |
+|          Final_Robot_Y |            0.31 |
+|   Robot_Travel_Forward |          0.0523 |
+|  Robot_Travel_Sideways |         0.00667 |
+|   Robot_Travel_Yaw_Deg |            5.71 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00682 |
+|           Critic_Steps |           50727 |
+| Critic_Time_Per_Update |          0.0194 |
+|             Actor_Loss |           -2.05 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           50727 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              96 |
+|              Wall_Time |            1.62 |
+|                Samples |           73959 |
+|           Train_Return |            9.34 |
+|            Train_Paths |            2077 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |            0.44 |
+|          Final_Robot_Y |          -0.215 |
+|   Robot_Travel_Forward |           0.101 |
+|  Robot_Travel_Sideways |         -0.0337 |
+|   Robot_Travel_Yaw_Deg |          -0.194 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |         0.00664 |
+|           Critic_Steps |           51274 |
+| Critic_Time_Per_Update |          0.0224 |
+|             Actor_Loss |           -2.07 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           51274 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              97 |
+|              Wall_Time |            1.64 |
+|                Samples |           74515 |
+|           Train_Return |            8.98 |
+|            Train_Paths |            2090 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           -0.36 |
+|          Final_Robot_Y |           0.331 |
+|   Robot_Travel_Forward |          -0.102 |
+|  Robot_Travel_Sideways |            0.13 |
+|   Robot_Travel_Yaw_Deg |            10.1 |
+|             Max_Torque |              34 |
+|            Critic_Loss |         0.00677 |
+|           Critic_Steps |           51817 |
+| Critic_Time_Per_Update |          0.0193 |
+|             Actor_Loss |           -2.06 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           51817 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              98 |
+|              Wall_Time |            1.65 |
+|                Samples |           75056 |
+|           Train_Return |            8.69 |
+|            Train_Paths |            2103 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |            0.56 |
+|          Final_Robot_Y |           0.232 |
+|   Robot_Travel_Forward |           0.113 |
+|  Robot_Travel_Sideways |          0.0372 |
+|   Robot_Travel_Yaw_Deg |           -9.91 |
+|             Max_Torque |            35.5 |
+|            Critic_Loss |          0.0071 |
+|           Critic_Steps |           52345 |
+| Critic_Time_Per_Update |          0.0235 |
+|             Actor_Loss |           -2.04 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           52345 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |              99 |
+|              Wall_Time |            1.66 |
+|                Samples |           75591 |
+|           Train_Return |            7.82 |
+|            Train_Paths |            2115 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.394 |
+|          Final_Robot_Y |           0.251 |
+|   Robot_Travel_Forward |          0.0671 |
+|  Robot_Travel_Sideways |        -0.00132 |
+|   Robot_Travel_Yaw_Deg |            4.57 |
+|             Max_Torque |            32.2 |
+|            Critic_Loss |           0.007 |
+|           Critic_Steps |           52868 |
+| Critic_Time_Per_Update |          0.0194 |
+|             Actor_Loss |           -2.05 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           52868 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |             100 |
+|              Wall_Time |            1.67 |
+|                Samples |           76128 |
+|           Train_Return |            9.15 |
+|            Train_Paths |            2128 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.369 |
+|          Final_Robot_Y |           0.339 |
+|   Robot_Travel_Forward |            0.12 |
+|  Robot_Travel_Sideways |          0.0735 |
+|   Robot_Travel_Yaw_Deg |           -4.33 |
+|             Max_Torque |            31.7 |
+|            Critic_Loss |         0.00686 |
+|           Critic_Steps |           53392 |
+| Critic_Time_Per_Update |          0.0193 |
+|             Actor_Loss |           -2.08 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           53392 |
+--------------------------------------------
+--------------------------------------------
+|              Iteration |             101 |
+|              Wall_Time |            1.69 |
+|                Samples |           76660 |
+|           Train_Return |            8.44 |
+|            Train_Paths |            2142 |
+|            Test_Return |            1.73 |
+|             Test_Paths |               1 |
+|          Final_Robot_X |           0.361 |
+|          Final_Robot_Y |           0.362 |
+|   Robot_Travel_Forward |          0.0378 |
+|  Robot_Travel_Sideways |         -0.0142 |
+|   Robot_Travel_Yaw_Deg |            1.68 |
+|             Max_Torque |            34.5 |
+|            Critic_Loss |         0.00695 |
+|           Critic_Steps |           53910 |
+| Critic_Time_Per_Update |          0.0221 |
+|             Actor_Loss |           -2.04 |
+|          Actor_Entropy |           -5.74 |
+|            Actor_Steps |           53910 |
+--------------------------------------------
+argv[0]=
+startThreads creating 1 threads.
+starting thread 0
+started thread 0 
+argc=3
+argv[0] = --unused
+argv[1] = 
+argv[2] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+X11 functions dynamically loaded using dlopen/dlsym OK!
+X11 functions dynamically loaded using dlopen/dlsym OK!
+Creating context
+Created GL 3.3 context
+Direct GLX rendering context obtained
+Making context current
+GL_VENDOR=NVIDIA Corporation
+GL_RENDERER=NVIDIA GeForce RTX 2060/PCIe/SSE2
+GL_VERSION=3.3.0 NVIDIA 470.239.06
+GL_SHADING_LANGUAGE_VERSION=3.30 NVIDIA via Cg compiler
+pthread_getconcurrency()=0
+Version = 3.3.0 NVIDIA 470.239.06
+Vendor = NVIDIA Corporation
+Renderer = NVIDIA GeForce RTX 2060/PCIe/SSE2
+b3Printf: Selected demo: Physics Server
+startThreads creating 1 threads.
+starting thread 0
+started thread 0 
+MotionThreadFunc thread started
+ven = NVIDIA Corporation
+ven = NVIDIA Corporation
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 exiting
+Thread TERMINATED
+destroy semaphore
+semaphore destroyed
+destroy main semaphore
+main semaphore destroyed
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 exiting
+Thread TERMINATED
+destroy semaphore
+semaphore destroyed
+destroy main semaphore
+main semaphore destroyed
+logged to: output/2024-10-01_1229_59/log_all_episodes.npz
