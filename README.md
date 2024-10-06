@@ -2,7 +2,7 @@
 
 This Python program allows you to visualize data related to the project "Legged Robots that Keep on Learning". It extracts relevant information from text files containing training data of legged robots and presents it through a user-friendly graphical interface using Tkinter and Matplotlib.
 
-![Project Image](DataPlotter_fine-tuning-locomotion/DataPlotter.png)
+![Project Image](https://github.com/GiorgioClivio/DataPlotter_fine-tuning-locomotion/blob/main/DataPlotter.png?raw=true)
 
 ## Author
 
