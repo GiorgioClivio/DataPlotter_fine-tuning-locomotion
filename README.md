@@ -43,6 +43,8 @@ These metrics include iterations, wall time, samples, training returns, test ret
 
 Once the Matplotlib window appears, you can easily download an image of the plotted data.
 
+I included in this Repository 4 examples of output.txt files, so you can try to run the DataPlotter.py program.
+
 
 
 
